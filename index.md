@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Andrew's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/aweber654/gitpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Note About Author: Junior at Virginia Tech pursuing a degree in computer science.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
